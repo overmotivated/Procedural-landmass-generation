@@ -1,2 +1,3 @@
 
-## Creating procedural generation landscape for my ecosystem simulation using Perlin noise
+### Procedural generation landscape
+..created for my ecosystem simulation using Perlin noise
